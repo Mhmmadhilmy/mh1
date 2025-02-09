@@ -3,7 +3,7 @@ export const data = {
         L: {
             id: 1,
             name: 'Muhamad Hilmi Islamudin',
-            child: 'Putra ke dua',
+            child: 'Putra kedua',
             father: 'Muslih S.pd.i',
             mother: 'Umi Salamah',
             image: './src/assets/images/cowo.png'
@@ -11,7 +11,7 @@ export const data = {
         P: {
             id: 2,
             name: 'Indri Mulyani',
-            child: 'Putri ke 4',
+            child: 'Putri Bungsu',
             father: 'Syarifudin',
             mother: 'Ade Sumiarsih',
             image: './src/assets/images/cewe.png'
@@ -41,12 +41,12 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Sukaresik, RT 01/ RW 02, Desa.Sukaharja, Kec.Ciawi, Kab.Tasikmalaya, Jawa Barat '
+        address: 'Graha Batu Nunggal, Komplek Perumahan Batu Nunggal, Jl. Batu Nunggal Indah IX No.2 , Mengger, Kec.Bandung Kidul, Kota Bandung, Jawa Barat '
     },
 
     link: {
         calendar: 'https://calendar.app.google/HQfcddUfSuSu1FDu9',
-        map: 'https://maps.app.goo.gl/uXbfKWLasoYp3cKA8',
+        map: 'https://maps.app.goo.gl/pY4cQE41FQpXCafy9',
     },
 
     galeri: [
